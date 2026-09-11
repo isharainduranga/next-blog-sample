@@ -3,6 +3,7 @@
 # Next.js Blog
 
 A simple blog application built with Next.js and TypeScript.
+````
 
 ## Getting Started
 
